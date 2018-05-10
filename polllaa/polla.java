@@ -8,7 +8,7 @@
  *
  * @author polinagrischuk
  */
-public class newClass1 {
+public class polla {
     
 }
 package testapp;
@@ -21,7 +21,11 @@ SimpleCalc(double p1,double p2) {
 this.a=p1;
 this.b=p2;
 }
-sdfgadfbhadb
+
+public double getSum() {
+
+
+return this.a+this.b;
 }
 
 }
